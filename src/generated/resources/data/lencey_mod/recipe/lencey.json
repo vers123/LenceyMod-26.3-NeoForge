@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "lencey_mod:lencey_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "lencey_mod:lencey"
+  }
+}

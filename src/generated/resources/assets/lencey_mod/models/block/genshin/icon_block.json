@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "lencey_mod:block/genshin/icon_block"
+  }
+}

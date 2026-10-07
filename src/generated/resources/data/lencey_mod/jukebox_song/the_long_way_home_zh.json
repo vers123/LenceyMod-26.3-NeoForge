@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "jukebox_song.lencey_mod.the_long_way_home_zh"
+  },
+  "length_in_seconds": 171.0,
+  "sound_event": "lencey_mod:music_disc.the_long_way_home_zh"
+}

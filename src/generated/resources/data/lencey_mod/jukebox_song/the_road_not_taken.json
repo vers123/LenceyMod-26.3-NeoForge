@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": {
+    "translate": "jukebox_song.lencey_mod.the_road_not_taken"
+  },
+  "length_in_seconds": 150.0,
+  "sound_event": "lencey_mod:music_disc.the_road_not_taken"
+}

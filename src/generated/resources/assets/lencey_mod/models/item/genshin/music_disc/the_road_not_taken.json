@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lencey_mod:item/genshin/music_disc/the_road_not_taken"
+  }
+}

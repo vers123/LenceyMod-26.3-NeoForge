@@ -1,0 +1,98 @@
+{
+  "music_disc.a_letter_from_the_wind_en": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/a_letter_from_the_wind_en",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.a_letter_from_the_wind_ja": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/a_letter_from_the_wind_ja",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.a_letter_from_the_wind_ko": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/a_letter_from_the_wind_ko",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.a_letter_from_the_wind_zh": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/a_letter_from_the_wind_zh",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.dream_aria": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/dream_aria",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.main_theme": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/main_theme",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.passing_memories_en": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/passing_memories_en",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.passing_memories_ja": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/passing_memories_ja",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.passing_memories_zh": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/passing_memories_zh",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_long_way_home_en": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/the_long_way_home_en",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_long_way_home_zh": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/the_long_way_home_zh",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_road_not_taken": {
+    "sounds": [
+      {
+        "name": "lencey_mod:genshin/music_disc/the_road_not_taken",
+        "stream": true
+      }
+    ]
+  }
+}

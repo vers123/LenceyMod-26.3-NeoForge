@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.lencey_mod.main_theme"
+  },
+  "length_in_seconds": 106.0,
+  "sound_event": "lencey_mod:music_disc.main_theme"
+}
